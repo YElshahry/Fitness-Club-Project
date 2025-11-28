@@ -26,4 +26,14 @@ The goal was to design a clean database structure and connect it to a working CL
     - View member and trainer data
     - Oversee class scheduling and billing
 
-### All actions run through the CLI menus in main.py 
+### All actions run through the CLI menus in main.py
+
+# How to Run the Project
+    - Install PostgreSQL and create a database (name it anything such as: fitness_club)
+    - Update your database settings in db_connection.py
+    - Run both SQL scripts; DDl.sql and DML.sql
+    - Install Python dependencies:
+        pip install psycopg2
+    - Start the program:
+        python main.py
+    
