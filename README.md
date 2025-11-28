@@ -34,9 +34,9 @@ The goal was to design a clean database structure and connect it to a working CL
 2. Update your database settings in `db_connection.py`.
 3. Run both SQL scripts (`DDL.sql` and `DML.sql`) to create tables and insert sample data.
 4. Install Python dependencies:
-pip install psycopg2
+```pip install psycopg2```
 5. Start the program:
-python main.py
+```python main.py```
     
 # Database Design
 
