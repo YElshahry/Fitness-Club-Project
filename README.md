@@ -50,6 +50,7 @@ The goal was to design a clean database structure and connect it to a working CL
 
 # Folder Structure
 
+```
 - app/
     main.py
     admin_operations.py
@@ -69,3 +70,4 @@ The goal was to design a clean database structure and connect it to a working CL
     db_config_example.env
     
 README.md
+```
