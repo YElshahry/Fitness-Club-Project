@@ -10,20 +10,30 @@ The goal was to design a clean database structure and connect it to a working CL
 
 ## Member Features
     - Register as a new member
+
     - Track fitness goals
+
     - Log health metrics
+
     - Enroll in group classes
+
     - Book personal training sessions
+
 
 ## Trainer Features
     - View assigned classes
+
     - Managed personal training sessions
+
     - See availablity schedule
 
 ## Admin Features
     - Manage rooms and equipment
+
     - Add trainers
+    
     - View member and trainer data
+
     - Oversee class scheduling and billing
 
 ### All actions run through the CLI menus in main.py
@@ -45,10 +55,15 @@ The goal was to design a clean database structure and connect it to a working CL
 
 ### The database is fully normalized and includes:
     - Clear entity relationships
+
     - Many-to-many handling through ClassEnrollment
+
     - Triggers for preventing overlapping sessions
+
     - A view for simple dashboard output
+
     - Indexes to improve query performance
+
 
 # Folder Structure
 
