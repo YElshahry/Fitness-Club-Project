@@ -30,10 +30,42 @@ The goal was to design a clean database structure and connect it to a working CL
 
 # How to Run the Project
     - Install PostgreSQL and create a database (name it anything such as: fitness_club)
+
     - Update your database settings in db_connection.py
+    
     - Run both SQL scripts; DDl.sql and DML.sql
+    
     - Install Python dependencies:
         pip install psycopg2
+    
     - Start the program:
         python main.py
+    
+# Database Design
+
+### The database is fully normalized and includes:
+    - Clear entity relationships
+    - Many-to-many handling through ClassEnrollment
+    - Triggers for preventing overlapping sessions
+    - A view for simple dashboard output
+    - Indexes to improve query performance
+
+# Folder Structure
+
+    - app/
+        main.py
+        admin_operations.py
+        trainer_operations.py
+        member_operations.py
+        db_connection.py
+    
+    = sql/
+        DDL.sql
+        DML.sql
+    
+    - docs/
+        ERD.pdf
+        ERD_Design.pdf
+    
+    README.md
     
