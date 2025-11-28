@@ -42,7 +42,7 @@ The goal was to design a clean database structure and connect it to a working CL
 
 ### The database is fully normalized and includes:
 - Clear entity relationships
-- Many-to-many handling through ClassEnrollment
+- Many-to-many handling through `ClassEnrollment`
 - Triggers for preventing overlapping sessions
 - A view for simple dashboard output
 - Indexes to improve query performance
