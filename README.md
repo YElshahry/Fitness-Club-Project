@@ -66,8 +66,5 @@ The goal was to design a clean database structure and connect it to a working CL
     ERD.pdf
     ERD_Design.pdf
     
-- config/
-    db_config_example.env
-    
 README.md
 ```
