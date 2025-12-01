@@ -6,6 +6,9 @@ The system uses Python for the interface and PostgreSQL as the database.
 
 The goal was to design a clean database structure and connect it to a working CLI, and support the main features required in a real fitness club setting.
 
+## Video Demonstration
+https://youtu.be/lyJYgCf9qsc
+
 # Main Features
 
 ## Member Features
