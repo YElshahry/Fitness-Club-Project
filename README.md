@@ -1,5 +1,7 @@
 # Fitness Club Management System
 
+Project made by: Soliman Elkhouli, and Yousuf Elshahry
+
 This project is a command-line application that manages core operations for a fitness club, including members, trainers, classes, personal training sessions, and basic billing.
 
 The system uses Python for the interface and PostgreSQL as the database.
@@ -68,6 +70,7 @@ https://youtu.be/lyJYgCf9qsc
 - docs/
     ERD.pdf
     ERD_Design.pdf
+    Project_Report.pdf
     
 README.md
 ```
