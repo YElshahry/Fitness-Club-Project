@@ -2,7 +2,7 @@
 Health and Fitness Club Management System
 Main Application Entry Point
 
-This application demonstrates all required functionality for a team of 2:
+This application demonstrates all required functionality:
 - 8 Entities in ER Model
 - 8 Relationships
 - 10 Total Operations (6 Member + 2 Trainer + 2 Admin)

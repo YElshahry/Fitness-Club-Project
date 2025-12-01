@@ -2,7 +2,7 @@
 Member Operations Module
 Implements all member-related functionality for the Health and Fitness Club Management System
 
-Required Operations (4 minimum for team of 2):
+Required Operations:
 1. User Registration
 2. Profile Management
 3. Health History

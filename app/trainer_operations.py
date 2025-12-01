@@ -2,7 +2,7 @@
 Trainer Operations Module
 Implements all trainer-related functionality for the Health and Fitness Club Management System
 
-Required Operations (2 minimum for team of 2):
+Required Operations:
 1. Set Availability
 2. Schedule View
 3. Member Lookup
