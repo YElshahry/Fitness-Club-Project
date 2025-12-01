@@ -2,7 +2,7 @@
 Admin Operations Module
 Implements all administrative staff functionality for the Health and Fitness Club Management System
 
-Required Operations (2 minimum for team of 2):
+Required Operations:
 1. Room Booking
 2. Equipment Maintenance
 3. Class Management
